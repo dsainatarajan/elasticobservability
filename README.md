@@ -1,0 +1,2 @@
+# elasticobservability
+Elasticsearch training data
